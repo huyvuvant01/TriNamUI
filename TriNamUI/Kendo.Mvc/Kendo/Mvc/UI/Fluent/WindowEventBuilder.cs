@@ -1,0 +1,163 @@
+﻿// Decompiled with JetBrains decompiler
+// Type: Kendo.Mvc.UI.Fluent.WindowEventBuilder
+// Assembly: Kendo.Mvc, Version=2021.3.1109.0, Culture=neutral, PublicKeyToken=121fae78165ba3d4
+// MVID: 21B8CA96-D514-4435-8358-0B5915A38622
+// Assembly location: D:\TriNam\Git\TriNamUI\TriNamUI\TestTelerikNetCore\bin\Debug\net6.0\Kendo.Mvc.dll
+
+using System;
+using System.Collections.Generic;
+
+namespace Kendo.Mvc.UI.Fluent
+{
+  public class WindowEventBuilder : EventBuilder
+  {
+    public WindowEventBuilder(IDictionary<string, object> events)
+      : base(events)
+    {
+    }
+
+    public WindowEventBuilder Activate(string handler)
+    {
+      this.Handler("activate", handler);
+      return this;
+    }
+
+    public WindowEventBuilder Activate(Func<object, object> handler)
+    {
+      this.Handler("activate", handler);
+      return this;
+    }
+
+    public WindowEventBuilder Close(string handler)
+    {
+      this.Handler("close", handler);
+      return this;
+    }
+
+    public WindowEventBuilder Close(Func<object, object> handler)
+    {
+      this.Handler("close", handler);
+      return this;
+    }
+
+    public WindowEventBuilder Deactivate(string handler)
+    {
+      this.Handler("deactivate", handler);
+      return this;
+    }
+
+    public WindowEventBuilder Deactivate(Func<object, object> handler)
+    {
+      this.Handler("deactivate", handler);
+      return this;
+    }
+
+    public WindowEventBuilder DragEnd(string handler)
+    {
+      this.Handler("dragend", handler);
+      return this;
+    }
+
+    public WindowEventBuilder DragEnd(Func<object, object> handler)
+    {
+      this.Handler("dragend", handler);
+      return this;
+    }
+
+    public WindowEventBuilder DragStart(string handler)
+    {
+      this.Handler("dragstart", handler);
+      return this;
+    }
+
+    public WindowEventBuilder DragStart(Func<object, object> handler)
+    {
+      this.Handler("dragstart", handler);
+      return this;
+    }
+
+    public WindowEventBuilder Error(string handler)
+    {
+      this.Handler("error", handler);
+      return this;
+    }
+
+    public WindowEventBuilder Error(Func<object, object> handler)
+    {
+      this.Handler("error", handler);
+      return this;
+    }
+
+    public WindowEventBuilder Maximize(string handler)
+    {
+      this.Handler("maximize", handler);
+      return this;
+    }
+
+    public WindowEventBuilder Maximize(Func<object, object> handler)
+    {
+      this.Handler("maximize", handler);
+      return this;
+    }
+
+    public WindowEventBuilder Minimize(string handler)
+    {
+      this.Handler("minimize", handler);
+      return this;
+    }
+
+    public WindowEventBuilder Minimize(Func<object, object> handler)
+    {
+      this.Handler("minimize", handler);
+      return this;
+    }
+
+    public WindowEventBuilder Open(string handler)
+    {
+      this.Handler("open", handler);
+      return this;
+    }
+
+    public WindowEventBuilder Open(Func<object, object> handler)
+    {
+      this.Handler("open", handler);
+      return this;
+    }
+
+    public WindowEventBuilder Refresh(string handler)
+    {
+      this.Handler("refresh", handler);
+      return this;
+    }
+
+    public WindowEventBuilder Refresh(Func<object, object> handler)
+    {
+      this.Handler("refresh", handler);
+      return this;
+    }
+
+    public WindowEventBuilder Resize(string handler)
+    {
+      this.Handler("resize", handler);
+      return this;
+    }
+
+    public WindowEventBuilder Resize(Func<object, object> handler)
+    {
+      this.Handler("resize", handler);
+      return this;
+    }
+
+    public WindowEventBuilder Restore(string handler)
+    {
+      this.Handler("restore", handler);
+      return this;
+    }
+
+    public WindowEventBuilder Restore(Func<object, object> handler)
+    {
+      this.Handler("restore", handler);
+      return this;
+    }
+  }
+}

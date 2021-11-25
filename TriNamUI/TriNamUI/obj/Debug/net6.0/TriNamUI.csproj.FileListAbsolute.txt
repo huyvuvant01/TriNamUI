@@ -1,0 +1,12 @@
+D:\TriNam\Git\TriNamUI\TriNamUI\TriNamUI\bin\Debug\net6.0\TriNamUI.deps.json
+D:\TriNam\Git\TriNamUI\TriNamUI\TriNamUI\bin\Debug\net6.0\TriNamUI.dll
+D:\TriNam\Git\TriNamUI\TriNamUI\TriNamUI\bin\Debug\net6.0\ref\TriNamUI.dll
+D:\TriNam\Git\TriNamUI\TriNamUI\TriNamUI\bin\Debug\net6.0\TriNamUI.pdb
+D:\TriNam\Git\TriNamUI\TriNamUI\TriNamUI\obj\Debug\net6.0\TriNamUI.csproj.AssemblyReference.cache
+D:\TriNam\Git\TriNamUI\TriNamUI\TriNamUI\obj\Debug\net6.0\TriNamUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\TriNam\Git\TriNamUI\TriNamUI\TriNamUI\obj\Debug\net6.0\TriNamUI.AssemblyInfoInputs.cache
+D:\TriNam\Git\TriNamUI\TriNamUI\TriNamUI\obj\Debug\net6.0\TriNamUI.AssemblyInfo.cs
+D:\TriNam\Git\TriNamUI\TriNamUI\TriNamUI\obj\Debug\net6.0\TriNamUI.csproj.CoreCompileInputs.cache
+D:\TriNam\Git\TriNamUI\TriNamUI\TriNamUI\obj\Debug\net6.0\TriNamUI.dll
+D:\TriNam\Git\TriNamUI\TriNamUI\TriNamUI\obj\Debug\net6.0\ref\TriNamUI.dll
+D:\TriNam\Git\TriNamUI\TriNamUI\TriNamUI\obj\Debug\net6.0\TriNamUI.pdb

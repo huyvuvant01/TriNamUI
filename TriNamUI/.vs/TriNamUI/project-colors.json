@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e7562ada-92c5-4d5f-8d28-ef71fbddbe9e": {
+      "ProjectGuid": "e7562ada-92c5-4d5f-8d28-ef71fbddbe9e",
+      "DisplayName": "TestTelerikNetCore",
+      "ColorIndex": 0
+    },
+    "178704c4-65e0-4147-a9aa-235821f91c6e": {
+      "ProjectGuid": "178704c4-65e0-4147-a9aa-235821f91c6e",
+      "DisplayName": "TriNamUI",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
